@@ -1,1 +1,5 @@
-// Write your solution here!
+beforeEach(functiobn () {
+    cats.length = 0;
+
+    cats.push("Milo", "Otis" "Garfield"); 
+});
